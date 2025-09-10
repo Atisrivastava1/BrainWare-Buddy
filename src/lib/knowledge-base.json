@@ -1,0 +1,95 @@
+{
+  "academics_and_college": {
+    "university_overview": {
+      "name": "Brainware University",
+      "location": "Barasat, West Bengal, India",
+      "established": 2016,
+      "recognized_by": "UGC",
+      "programs_offered": [
+        "Undergraduate",
+        "Postgraduate",
+        "Doctoral",
+        "Diploma"
+      ],
+      "schools": [
+        "Engineering",
+        "Management",
+        "Law",
+        "Allied Health Sciences",
+        "Biotechnology",
+        "Pharmaceutical Technology",
+        "Commerce",
+        "Humanities and Social Sciences"
+      ],
+      "total_programs": "55+"
+    },
+    "student_self_service_portal": {
+      "url": "https://brainware-india.com/studentselfservice/",
+      "features": [
+        "View and verify profile details (important for certificates)",
+        "Access invoices and fee receipts",
+        "Check payment status (due fees, completed payments)",
+        "Attendance records",
+        "CGPA/SGPA details",
+        "Activity updates"
+      ],
+      "support": {
+        "email": "mayihelpu@brainware-india.com",
+        "helpline": "9831102889",
+        "helpdesk_portal": "Student Help Desk section in Self-Service"
+      },
+      "payment_notes": [
+        "Payments reflect within 2 working days.",
+        "Convert Kachha receipts to official ones via portal or helpdesk."
+      ]
+    },
+    "library_and_labs": {
+      "library": {
+        "description": "Central and departmental libraries with RFID-enabled operations",
+        "systems": ["OPAC", "Koha LMS"],
+        "resources": ["books", "journals", "e-resources", "reference services"]
+      },
+      "language_lab": {
+        "purpose": "Enhancing communicative English and job readiness",
+        "facilities": ["interactive exercises", "speaking and listening modules"]
+      }
+    },
+    "events_and_clubs": {
+      "cultural_and_tech_fests": [
+        {
+          "name": "Anandadhara",
+          "type": "Annual Cultural Fest"
+        },
+        {
+          "name": "Texibition",
+          "type": "Tech Exhibition"
+        },
+        {
+          "name": "Creative Communion",
+          "type": "Creative Arts Event"
+        }
+      ],
+      "student_clubs": [
+        "Photography Club",
+        "Cinematography Club",
+        "Technology Club",
+        "Talent Clubs"
+      ],
+      "purpose": "Encourage extracurricular activities, creativity, and innovation"
+    },
+    "student_welfare_and_support": {
+      "welfare_committee": "Handles grievances, academic support, and extracurricular activities",
+      "student_board": "Engages students in governance, events, and publications"
+    },
+    "mobile_apps": {
+      "android": {
+        "features": ["attendance", "fee status", "CGPA/SGPA", "current activities"],
+        "note": "Stable and widely used"
+      },
+      "ios": {
+        "features": ["similar to Android"],
+        "note": "Performance issues reported; fallback to portal suggested"
+      }
+    }
+  }
+}

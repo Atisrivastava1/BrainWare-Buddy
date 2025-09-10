@@ -1,0 +1,417 @@
+{
+  "qa_pairs": [
+    {
+      "q": [
+        "What is the outing time for hostel students?",
+        "When can hostel students go out?",
+        "What are the hostel outing timings?",
+        "At what time can hostel students leave campus?",
+        "When are hostel students allowed outside?",
+        "What are the hostel going out hours?"
+      ],
+      "a": "For hostel students, outing time is from 5:00 PM to 8:00 PM (Monday to Saturday). On Sundays, outing is allowed from 7:30 AM to 8:00 PM. If a student wishes to go outside campus beyond these hours, they must fill the hostel leaving form, get it signed and stamped by their HOD, and then approved by the hostel warden."
+    },
+    {
+      "q": [
+        "How can I access the library?",
+        "Where is the library and how to use it?",
+        "How do students use the library?",
+        "What is the process to access books in the library?",
+        "How do I search resources in the library?",
+        "How can I use the library facilities?"
+      ],
+      "a": "Brainware University provides both central and departmental libraries. They are RFID-enabled and use Koha Library Management System. You can search resources through OPAC and access books, journals, and e-resources."
+    },
+    {
+      "q": [
+        "What is the language lab used for?",
+        "Why do we have a language lab?",
+        "What is the purpose of the language lab?",
+        "How does the language lab help students?",
+        "What can I learn in the language lab?",
+        "Is the language lab for improving English?"
+      ],
+      "a": "The Language Lab helps students improve their English communication skills and job readiness through interactive speaking and listening exercises."
+    },
+    {
+      "q": [
+        "Where can I get counselling support?",
+        "Is counselling available for students?",
+        "Where do I go for mental health support?",
+        "How can I talk to a counsellor?",
+        "Does Brainware University provide counselling?",
+        "Who provides student counselling on campus?"
+      ],
+      "a": "You can visit the on-campus Counselling Room or contact the Student Services Centre (SSC). They provide support in-person, online, over the phone, and through group sessions. They also help with resilience building and coordinate with welfare cells."
+    },
+    {
+      "q": [
+        "Is there a medical facility on campus?",
+        "Does the university provide medical services?",
+        "Where do I go if I feel sick on campus?",
+        "Is there a doctor at Brainware University?",
+        "Does the campus have a clinic?",
+        "Is free medical care available for students?"
+      ],
+      "a": "Yes. There is a Doctor’s Chamber and Sick Room on campus that provides free medical care for students. There is also a yoga room for physical and mental wellness."
+    },
+    {
+      "q": [
+        "What if I need legal support?",
+        "Does the university provide legal help?",
+        "Where do I go for legal advice?",
+        "Is there a legal aid service on campus?",
+        "How can I get legal guidance at Brainware?",
+        "Does Brainware have a law help desk?"
+      ],
+      "a": "Brainware University has a Legal Aid Clinic where students can receive free legal guidance and assistance."
+    },
+    {
+      "q": [
+        "What recreational facilities are available?",
+        "What are the fun activities on campus?",
+        "Does the university have sports and games?",
+        "Are there any indoor games at Brainware?",
+        "What facilities are there for relaxation?",
+        "Is there a gym and food court on campus?"
+      ],
+      "a": "The campus provides indoor games (carrom, chess, table tennis), a gymnasium, a food court, hostels, ATM, auditorium, and 24×7 emergency car services."
+    },
+    {
+      "q": [
+        "How do I check my profile or fee details?",
+        "Where can I check my fee payment status?",
+        "How do I see my student profile?",
+        "Is there a portal to check fees?",
+        "How can I download invoices and receipts?",
+        "Where do I check my profile and payments?"
+      ],
+      "a": "Log in to the Student Self-Service Portal at https://brainware-india.com/studentselfservice/. There, you can verify your profile details, check fee status, download invoices, and view receipts. Payments usually reflect within two working days."
+    },
+    {
+      "q": [
+        "What if my payment is not updated in the portal?",
+        "My payment is not showing, what should I do?",
+        "What if my fee receipt is missing?",
+        "Where do I complain if payment is not updated?",
+        "Who do I contact if payment is not reflected?",
+        "My payment has not been updated after 2 days?"
+      ],
+      "a": "If your receipt hasn’t appeared after two working days, you can email mayihelpu@brainware-india.com, call 9831102889, or post your issue in the Student Help Desk section of the portal."
+    },
+    {
+      "q": [
+        "Does Brainware University have a mobile app?",
+        "Is there a mobile app for students?",
+        "Can I check attendance on mobile?",
+        "Does Brainware have an iOS app?",
+        "What can I do with the Brainware app?",
+        "Is there an Android app for Brainware University?"
+      ],
+      "a": "Yes. The Android app provides access to attendance records, fee status, CGPA/SGPA, and activity updates. The iOS app is available but may face performance issues, so the portal is recommended as a fallback."
+    },
+    {
+      "q": [
+        "What events take place on campus?",
+        "What cultural programs are held at Brainware?",
+        "Does the university have annual fests?",
+        "Are there any technical exhibitions?",
+        "What are the student activities at Brainware?",
+        "What clubs and events can students join?"
+      ],
+      "a": "Brainware University hosts cultural and technical events like Anandadhara (annual fest), Texibition (tech exhibition), and Creative Communion. There are also student clubs for photography, cinematography, technology, and arts."
+    },
+    {
+      "q": [
+        "What programs does Brainware University offer?",
+        "Which courses are available at Brainware?",
+        "What degrees can I study at Brainware University?",
+        "Does Brainware offer UG and PG programs?",
+        "What kind of programs are there in the university?",
+        "How many courses are there in Brainware University?"
+      ],
+      "a": "The university offers undergraduate, postgraduate, doctoral, and diploma programs across multiple schools such as Engineering, Management, Law, Allied Health Sciences, and more—covering over 55 programs."
+    },
+    {
+      "q": [
+        "What is Brainware University?",
+        "Tell me about Brainware University.",
+        "What kind of university is Brainware?",
+        "Is Brainware a private or government university?",
+        "Is Brainware University UGC recognized?",
+        "Where is Brainware University located?"
+      ],
+      "a": "Brainware University is a UGC-recognized private university located in Barasat, Kolkata, West Bengal."
+    },
+    {
+      "q": [
+        "Where is the campus located?",
+        "What is the address of Brainware University?",
+        "Where is Brainware University situated?",
+        "Which city is Brainware University in?",
+        "Is the campus in Kolkata?",
+        "Where exactly is Brainware University?"
+      ],
+      "a": "The main campus is located in Barasat, on the outskirts of Kolkata, West Bengal."
+    },
+    {
+      "q": [
+        "How can I apply for admission?",
+        "What is the admission process?",
+        "Where can I apply for admission?",
+        "How do I take admission in Brainware?",
+        "Is admission online?",
+        "How can I fill the admission form?"
+      ],
+      "a": "You can apply online through the official Brainware University website under the Admissions section."
+    },
+    {
+      "q": [
+        "What facilities are available on campus?",
+        "Which facilities does Brainware provide?",
+        "What infrastructure is available?",
+        "Does the university have hostels and labs?",
+        "What are the amenities on campus?",
+        "What resources are available for students?"
+      ],
+      "a": "Facilities include hostels, libraries, labs, sports grounds, cafeterias, healthcare, and modern classrooms."
+    },
+    {
+      "q": [
+        "Does the university provide placement support?",
+        "Does Brainware have a placement cell?",
+        "Are there campus placements?",
+        "Does the university help in getting jobs?",
+        "What kind of placement support is there?",
+        "Are internships available at Brainware?"
+      ],
+      "a": "Yes, Brainware University has a dedicated placement cell that provides training, internships, and job placement opportunities with reputed companies."
+    },
+    {
+      "q": [
+        "Is hostel accommodation available?",
+        "Does Brainware provide hostel facilities?",
+        "Are there hostels for students?",
+        "Can I stay in a hostel at Brainware?",
+        "Is hostel available for boys and girls?",
+        "Does the university provide student accommodation?",
+        "Does Brainware University have hostels?",
+        "Are there hostels at Brainware?",
+        "Is hostel life available at Brainware?",
+        "Does the campus include hostels?",
+        "Are there hostels for both boys and girls?",
+        "Does Brainware have accommodation facilities?"
+      ],
+      "a": "Yes, hostel facilities are available for both boys and girls with necessary amenities. Specifically, there are hostels for boys, girls, and nursing students."
+    },
+    {
+      "q": [
+        "What is the contact number for admissions?",
+        "How do I contact the admission office?",
+        "What is the phone number for Brainware admissions?",
+        "Can I call Brainware for admission details?",
+        "What number should I dial for admissions?",
+        "Is there an admission helpline number?"
+      ],
+      "a": "You can reach the admissions office at +91-8016040604."
+    },
+    {
+      "q": [
+        "Where are the hostels located?",
+        "Are the hostels inside the campus?",
+        "Is the hostel within the university campus?",
+        "Where exactly are the hostels situated?",
+        "Do students stay inside campus hostels?",
+        "Is the hostel outside the campus?"
+      ],
+      "a": "The hostels are located inside the college campus."
+    },
+    {
+      "q": [
+        "What types of rooms are available in the girls’ hostel?",
+        "What kind of rooms are there in the girls' hostel?",
+        "Does the girls' hostel have single rooms?",
+        "Are double rooms available in the girls' hostel?",
+        "How many beds are in a girls' hostel room?",
+        "Is there a 4-bed room option in the hostel?"
+      ],
+      "a": "The girls’ hostel has 4-bed, 2-bed, and single-bed rooms."
+    },
+    {
+      "q": [
+        "Are meals provided in the hostel?",
+        "Is food included in hostel accommodation?",
+        "Do hostel students get breakfast, lunch, dinner?",
+        "Is food free for hostel students?",
+        "Does the hostel provide snacks?",
+        "Is there a mess facility in the hostel?"
+      ],
+      "a": "Yes, breakfast, lunch, snacks, and dinner are included for hostel students."
+    },
+    {
+      "q": [
+        "Can hostel students go outside at any other time?",
+        "Are hostel students allowed outside at night?",
+        "Is it possible to leave hostel beyond outing hours?",
+        "Can I go out of hostel anytime?",
+        "Do I need permission to go outside hostel?",
+        "What if I want to go out at another time?"
+      ],
+      "a": "No, outside these timings, hostel students cannot go outside unless they submit a leaving form signed by their HOD with stamp, and then get it approved by the hostel warden."
+    },
+    {
+      "q": [
+        "How much is the hostel fee at Brainware University?",
+        "What is the monthly hostel charge?",
+        "How much does the hostel cost?",
+        "What is the price of hostel accommodation?",
+        "What is the hostel rent?",
+        "How much do I pay for hostel every month?"
+      ],
+      "a": "The hostel fee is ₹10,000 per month."
+    },
+    {
+      "q": [
+        "How is the hostel fee paid?",
+        "Do I need to pay hostel fee monthly?",
+        "Is hostel fee to be paid in advance?",
+        "Can I pay hostel fees every 3 months?",
+        "How do I deposit hostel fee?",
+        "What is the hostel payment policy?"
+      ],
+      "a": "Students have to pay 3 months’ fee in advance."
+    },
+    {
+      "q": [
+        "Tell me a joke",
+        "Say a joke",
+        "Give me a joke",
+        "Can you tell me a joke?",
+        "Do you know any jokes?",
+        "Make me laugh",
+        "Something funny please",
+        "Do you have a programming joke?",
+        "Share a coding joke",
+        "Joke please"
+      ],
+      "a": [
+        "Why don’t programmers like nature? Because it has too many bugs!",
+        "Why do Python programmers prefer dark mode? Because light attracts bugs!",
+        "How many programmers does it take to change a light bulb? None. That's a hardware problem.",
+        "Why do Java developers wear glasses? Because they don’t C#.",
+        "Why did the developer go broke? Because he used up all his cache."
+      ]
+    },
+    {
+      "q": [
+        "What programs are available in Computer Science & Engineering?",
+        "List the Computer Science & Engineering courses",
+        "Tell me about CSE programs",
+        "What are the B.Tech options in Computer Science?",
+        "Computer Science Engineering courses",
+        "Do you have Artificial Intelligence in CSE?",
+        "Is there Robotics in Computer Science?",
+        "CSE programs offered",
+        "CSE courses available"
+      ],
+      "a": [
+        "Bachelor of Technology in Computer Science & Engineering",
+        "Bachelor of Technology in Computer Science & Engineering - Artificial Intelligence & Machine Learning",
+        "Bachelor of Technology in Computer Science & Engineering - Artificial Intelligence & Robotics"
+      ]
+    },
+    {
+      "q": [
+        "What programs are available in Computer Science & Engineering CS & DS?",
+        "List the CS & DS courses",
+        "Tell me about Data Science programs",
+        "What are the Cyber Security courses?",
+        "Do you have B.Tech in Cyber Security?",
+        "Is there Data Science specialization in CSE?",
+        "CS & DS courses available"
+      ],
+      "a": [
+        "Bachelor of Technology in Computer Science & Engineering - Data Science",
+        "Bachelor of Technology in Computer Science & Engineering - Cyber Security"
+      ]
+    },
+    {
+      "q": [
+        "What programs are available in Cyber Science & Technology?",
+        "List the Cyber Science & Technology courses",
+        "Tell me about Cyber Security programs",
+        "What are the B.Sc options in Cyber Science?",
+        "Do you have Advanced Networking courses?",
+        "Cyber Science programs offered"
+      ],
+      "a": [
+        "Bachelor of Science (Honours) in Advanced Networking & Cyber Security",
+        "Bachelor of Science in Advanced Networking & Cyber Security"
+      ]
+    },
+    {
+      "q": [
+        "What programs are available in Computational Science?",
+        "List the Computational Science courses",
+        "Tell me about BCA programs",
+        "What are the BCA specializations?",
+        "Do you have Mobile Application and Web Technologies?",
+        "Computational Science courses offered"
+      ],
+      "a": [
+        "Bachelor of Computer Applications (Honours)",
+        "Bachelor of Computer Applications (Honours) in Mobile Application and Web Technologies",
+        "Bachelor of Computer Applications",
+        "Bachelor of Computer Applications in Mobile Application and Web Technologies"
+      ]
+    },
+    {
+      "q": [
+        "What programs are available in Management?",
+        "List the Management courses",
+        "Tell me about BBA programs",
+        "What are the Business Analytics courses?",
+        "Do you have BBA in Digital Marketing?",
+        "Management courses offered",
+        "Management programs available"
+      ],
+      "a": [
+        "Bachelor of Business Administration (Honours)",
+        "Bachelor of Business Administration (Honours) in Business Analytics",
+        "Bachelor of Business Administration (Honours) in Digital Marketing",
+        "Bachelor of Business Administration",
+        "Bachelor of Business Administration in Business Analytics",
+        "Bachelor of Business Administration in Digital Marketing"
+      ]
+    }
+  ],
+  "programs": {
+    "Computer Science & Engineering": [
+      "Bachelor of Technology in Computer Science & Engineering",
+      "Bachelor of Technology in Computer Science & Engineering - Artificial Intelligence & Machine Learning",
+      "Bachelor of Technology in Computer Science & Engineering - Artificial Intelligence & Robotics"
+    ],
+    "Computer Science & Engineering CS & DS": [
+      "Bachelor of Technology in Computer Science & Engineering - Data Science",
+      "Bachelor of Technology in Computer Science & Engineering - Cyber Security"
+    ],
+    "Cyber Science & Technology": [
+      "Bachelor of Science (Honours) in Advanced Networking & Cyber Security",
+      "Bachelor of Science in Advanced Networking & Cyber Security"
+    ],
+    "Computational Science": [
+      "Bachelor of Computer Applications (Honours)",
+      "Bachelor of Computer Applications (Honours) in Mobile Application and Web Technologies",
+      "Bachelor of Computer Applications",
+      "Bachelor of Computer Applications in Mobile Application and Web Technologies"
+    ],
+    "Management": [
+      "Bachelor of Business Administration (Honours)",
+      "Bachelor of Business Administration (Honours) in Business Analytics",
+      "Bachelor of Business Administration (Honours) in Digital Marketing",
+      "Bachelor of Business Administration",
+      "Bachelor of Business Administration in Business Analytics",
+      "Bachelor of Business Administration in Digital Marketing"
+    ]
+  }
+}
